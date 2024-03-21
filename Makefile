@@ -1,4 +1,3 @@
-#lalalalla
 
 .PHONY: build
 build:
